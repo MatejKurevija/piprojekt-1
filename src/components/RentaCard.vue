@@ -46,7 +46,7 @@
 				</v-card-actions>
 			</v-row>
 		</v-card-text>
-		<v-btn color="purple" class="white--text" width="100%">Rent</v-btn>
+		<v-btn href="/payment" color="purple" class="white--text" width="100%">Rent</v-btn>
 	</v-card>
 </template>
 
